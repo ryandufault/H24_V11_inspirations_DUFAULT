@@ -1,6 +1,6 @@
 # Ryan Dufault
 
-![photo](photo_SF_K_Nnebe_Afflux_20231201.jpg)
+![photo](E.jpg)
 
 Photo qui me représente via un album de Ecco2K, *E*, novembre 2019.
 

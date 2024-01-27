@@ -2,7 +2,7 @@
 
 ![photo](photo_SF_K_Nnebe_Afflux_20231201.jpg)
 
-Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
+Photo qui me représente via un album de Ecco2K, *E*, novembre 2019.
 
 
 ## **Intérêts dans le multimedia**
@@ -11,4 +11,4 @@ une histoire à travers des films, des séries, des courts-métrages, etc. De pl
 
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
-Je n'ai pas vraiment d'intérêt pour la muséologie, mais j'espère pouvoir en apprendre plus et en développer un.
+Je n'ai pas vraiment d'intérêt pour la muséologie, mais j'espère pouvoir en apprendre plus et en développer un dans le cadre du cours.

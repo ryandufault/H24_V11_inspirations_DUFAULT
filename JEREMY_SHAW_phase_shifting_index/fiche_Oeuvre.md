@@ -2,13 +2,13 @@
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
 | Nom de l'exposition ou de l'événement|![Affiche exposition](./img/affiche_exposition.JPG)| Jeremy Shaw - phase shifting index |
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| Fonderie Darling (Montréal) |
+| Lieu de mise en exposition    |(./img/moi_devant_edifice.png)| Fonderie Darling (Montréal) |
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    |  |  |
 | Date de votre visite    |            | 31 Janvier 2024 |
-| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | Phase Shifting Index  |
+| Titre de l'oeuvre  |(./img/mise_en_espace_1.JPG) | Phase Shifting Index  |
 | Nom de l'artiste    |         | Jeremy Shaw |
 | Année de réalisation     |          | 2020 |
-| Description de l'oeuvre   | Cartel + diverses vues          |Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. (source: Mac, https://macm.org/expositions/jeremy-shaw/)  |
+| Description de l'oeuvre   | (./img/affiche_expo.JPG) (./img/description_exposition.JPG)|Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. (source: Mac, https://macm.org/expositions/jeremy-shaw/)  |
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre le type d'installation             | --- |
 | Mise en espace   | Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)        | L'ensemble de l'oeuvre est présente dans une pièce remplie de tapis, avec 7 écrans disposés de manière spécifique diffusant simultanément l'oeuvre. Quelques bancs sont disposés dans la salle. |
 | Composantes et techniques     | Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | L'oeuvre se compose en partie de projecteurs, ainsi que de 7 écrans qui constituent l'élément principal de ce qui est visible. De plus, des faisceaux de lumière ajoutent à l'ambiance, et des haut-parleurs diffusent la bande sonore du projet.|

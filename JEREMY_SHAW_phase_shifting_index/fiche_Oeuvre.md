@@ -1,7 +1,7 @@
 
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition| Jeremy Shaw - phase shifting index |
+| Nom de l'exposition ou de l'événement|![Affiche exposition](./img/affiche_expo.jpg)| Jeremy Shaw - phase shifting index |
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| Fonderie Darling (Montréal) |
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    |  |  |
 | Date de votre visite    |            | 31 Janvier 2024 |

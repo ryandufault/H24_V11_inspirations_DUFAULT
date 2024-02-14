@@ -47,7 +47,7 @@
 ![Affiche exposition](./img/composant_technique_3.JPG)
 
 ### Éléments nécessaires à la mise en exposition
-- Quelques bancs sont disposés pour renforcer l'immersion. Comme précisé, des projecteurs diffusent les vidéos. Je suppose également qu'il y a plusieurs câbles pour relier l'ensemble.
+- Quelque s bancs sont disposés pour renforcer l'immersion. Comme précisé, des projecteurs diffusent les vidéos. Je suppose également qu'il y a plusieurs câbles pour relier l'ensemble.
 ![Affiche exposition](./img/element_mise_en_expo_1.JPG)
 ![Affiche exposition](./img/element_mise_en_expo_2.JPG)
 ![Affiche exposition](./img/element_mise_en_expo_3.JPG)

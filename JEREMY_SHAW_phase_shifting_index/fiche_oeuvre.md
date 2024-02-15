@@ -27,7 +27,7 @@
 - 2020
 
 ### Description de l'œuvre
-- Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. (source: Mac, [Lien vers la source](https://macm.org/expositions/jeremy-shaw/))
+- Phase Shifting Index est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. (source: Mac, [Lien vers la source](https://macm.org/expositions/jeremy-shaw/))
 ![Affiche exposition](./img/affiche_expo.JPG)
 
 ## Détails supplémentaires

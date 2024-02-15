@@ -53,7 +53,7 @@
 ![Affiche exposition](./img/element_mise_en_expo_3.JPG)
 
 ### Expérience vécue
-- Je pense qu'on attend de nous de simplement regarder et contempler. Il y a une immersion très intense simplement en observant l'œuvre, et les jeux de lumières et de son nous immersent véritablement, même si au fond nous sommes simplement assis à regarder des écrans.
+- Je pense qu'on attend de nous de simplement regarder et contempler. Il y a une immersion très intense simplement en observant l'œuvre, les jeux de lumières et de son nous immersent, même si au fond nous sommes simplement assis à regarder des écrans.
 ![Affiche exposition](./img/exp_vecu_13.JPG)
 ![Vidéo](./img/exp_vecu_2.MOV)
 ![Affiche exposition](./img/exp_vecu_10.JPG)

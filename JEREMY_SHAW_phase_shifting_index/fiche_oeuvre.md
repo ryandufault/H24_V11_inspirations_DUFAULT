@@ -69,4 +69,4 @@
 ![Affiche exposition](./img/negatif_2.png)
 
 ### Références
-- [Lien vers la source](https://macm.org/expositions/jeremy-shaw/)
+- [MAC - Jeremy Shaw : Phase Shifting Index](https://macm.org/expositions/jeremy-shaw/)

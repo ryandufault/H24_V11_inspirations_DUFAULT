@@ -11,6 +11,7 @@ Rhizomatique explore la façon dont nous nous souvenons et interagissons avec le
 ## Installation
 
 ## Schéma prévu pour l'installation
+![Schema](./media/rhizomatique_plantation.drawio.png)
 
 ## Lien 
 [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)

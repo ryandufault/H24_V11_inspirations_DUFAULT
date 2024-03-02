@@ -15,6 +15,6 @@ L'exposition Sonalux offre une expérience multimédia immersive où les partici
 (source: [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html))
 
 ## Lien 
-[Kigo](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
+[Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
 
 

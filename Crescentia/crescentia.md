@@ -9,4 +9,4 @@ Objets interactifs enseigne l'intégration de technologies électroniques pour l
 
 ## Technologie non familière
 ### La kinect
-Je n'étais pas familier avec le kinect auparavant. Celui-ci permet de capter des mouvements en temps réel avec des notions de profondeur avec un capteur motorisé pour suivre les déplacements
+Je n'étais pas familier avec le kinect auparavant. Celui-ci permet de capter des mouvements en temps réel avec des notions de profondeur avec un capteur motorisé pour suivre les déplacements.

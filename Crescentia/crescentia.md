@@ -4,6 +4,7 @@
 -  Objets interactifs
 -  Installation multimédia
 -  Œuvres et dispositifs multimédias en exposition
+  
 Objets interactifs enseigne l'intégration de technologies électroniques pour l'interaction. Installation multimédia développe la création d'installations à grande échelle. Oeuvres et dispositifs multimédias en exposition prépare à documenter la mise en exposition des projets, essentiel pour une expérience multimédia réussie.
 
 ## Technologie non familière

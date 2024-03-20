@@ -8,8 +8,10 @@
 Objets interactifs enseigne l'intégration de technologies électroniques pour l'interaction. Installation multimédia développe la création d'installations à grande échelle. Oeuvres et dispositifs multimédias en exposition prépare à documenter la mise en exposition des projets, essentiel pour une expérience multimédia réussie.
 
 ## Technologie non familière
-### La kinect
+### Kinect
 Je n'étais pas familier avec le kinect auparavant. Celui-ci permet de capter des mouvements en temps réel avec des notions de profondeur avec un capteur motorisé pour suivre les déplacements.
+
+<img src="./media/experiences/KIGO_kinect.jpg" width="350"/>
 
 ## Mes expériences préférées en ordre
 - Rhizomatique

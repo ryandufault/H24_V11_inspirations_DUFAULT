@@ -1,4 +1,4 @@
-# Exposition : Effet Papillon
+# Oeuvre : Effet Papillon
 ### Créateurs et créatrices
 - Raphaël Dumont
 - Alexis Bolduc
@@ -22,7 +22,7 @@ Effet Papillon présente une expérience immersive qui explore le cycle de vie d
 ![Schema](./media/effetpapillon_plantation.jpg)
 (source: [EffetPapillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html))
 
-## Lien 
+## Lien de l'oeuvre
 [EffetPapillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
 
 

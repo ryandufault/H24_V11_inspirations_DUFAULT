@@ -1,5 +1,5 @@
 
-# Crescentia : Global
+# Exposition : Crescentia
 ## Trois programme incontournable pour avoir les compétences pour pouvoir créer ce genre projet
 -  Objets interactifs
 -  Installation multimédia

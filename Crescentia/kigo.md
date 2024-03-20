@@ -1,4 +1,4 @@
-# Exposition : Kigo
+# Oeuvre : Kigo
 ### Créateurs et créatrices
 - Érick Ouellette
 - William Rathier Mailly
@@ -12,16 +12,21 @@ Kigo est un jeu interactif avec des visuels néon rétro changeants pour représ
 ## Installation
 <img src="./media/experiences/KIGO_action.jpg" width="350"/>
 
+Photo de l'oeuvre en action.
+
 https://github.com/ryandufault/H24_V11_inspirations_DUFAULT/assets/142917876/abebe483-916d-4451-b688-f4b521460d99
 
-<img src="./media/experiences/KIGO_echelle.jpg" width="350"/>
-<img src="./media/experiences/KIGO_score.jpg" width="350"/>
+Vidéo de l'oeuvre en action.
+
+<img src="./media/experiences/KIGO_echelle.jpg" width="350"/><img src="./media/experiences/KIGO_score.jpg" width="350"/>
+
+Photo de l'oeuvre en ensemble. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎Photo de la liste des meilleurs scores.
 
 
 ## Schéma prévu pour l'installation
 ![Schema](./media/kigo_plantation.png)
 (source: [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html))
 
-## Lien 
+## Lien de l'oeuvre
 [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web)
 

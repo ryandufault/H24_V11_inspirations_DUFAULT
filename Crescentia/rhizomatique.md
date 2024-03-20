@@ -19,6 +19,7 @@ Photo de l'oeuvre de proche. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
 ## Schéma prévu pour l'installation
 ![Schema](./media/rhizomatique_plantation.drawio.png)
+
 (source: [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html))
 
 ## Lien 

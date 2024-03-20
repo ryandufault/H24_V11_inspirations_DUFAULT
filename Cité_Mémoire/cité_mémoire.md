@@ -1,23 +1,23 @@
-# Exposition : Cité Mémoire
+# Exposition : Cité Mémoire - Naissance du monde
 
-## Information recherchée
+## Informations
 
 ### Nom de l'exposition ou de l'événement
-- Jeremy Shaw - phase shifting index
+- Cité Mémoire
 ![Affiche exposition](./img/affiche_exposition.JPG)
 
 ### Lieu de mise en exposition
-- Fonderie Darling (Montréal)
+- Place Paul-Émile Borduas dans le Quartier des spectacles
 ![Lieu exposition](./img/moi_devant_edifice.png)
 
 ### Type d'exposition
 - Temporaire
 
 ### Date de votre visite
-- 31 Janvier 2024
+- 23 Février 2024
 
 ### Titre de l'œuvre
-- Phase Shifting Index
+- Naissance du monde
 ![Vue d'ensemble](./img/mise_en_espace_1.JPG)
 
 ### Nom de l'artiste

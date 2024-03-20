@@ -11,7 +11,11 @@ Kigo est un jeu interactif avec des visuels néon rétro changeants pour représ
 
 ## Installation
 <img src="./media/experiences/KIGO_action.jpg" width="350"/>
-<iframe width="350" height="215" src="https://www.youtube.com/embed/apgK9zt7uBw?si=i7BpAxmCVy_PP-uI&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://github.com/ryandufault/H24_V11_inspirations_DUFAULT/assets/142917876/abebe483-916d-4451-b688-f4b521460d99
+
+
 <img src="./media/experiences/KIGO_echelle.jpg" width="350"/>
 <img src="./media/experiences/KIGO_score.jpg" width="350"/>
 

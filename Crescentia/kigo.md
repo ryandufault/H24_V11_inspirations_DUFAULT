@@ -25,6 +25,7 @@ Photo de l'oeuvre en ensemble. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ �
 
 ## Schéma prévu pour l'installation
 ![Schema](./media/kigo_plantation.png)
+
 (source: [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html))
 
 ## Lien de l'oeuvre

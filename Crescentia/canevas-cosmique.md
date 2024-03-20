@@ -10,9 +10,14 @@
 Canevas Cosmique est une expérience immersive où les visiteurs peuvent interagir avec une simulation de système solaire. À travers cette expérience, on explore la notion de création et de manipulation d'un univers cosmique. Le lien est que la créativité est présente lorsque l'on crée.
 
 ## Installation
+<img src="./media/experiences/CANEVASCOSMIQUE_grandplan.jpg" width="350"/>
+<img src="./media/experiences/CANEVASCOSMIQUE_action.jpg" width="350"/>
+<img src="./media/experiences/CANEVASCOSMIQUE_installation.jpg" width="350"/>
+<img src="./media/experiences/CANEVASCOSMIQUE_iterations.jpg" width="350"/>
+<img src="./media/experiences/CANEVASCOSMIQUE_fusionplanete.jpg" width="350"/>
 
 ## Schéma prévu pour l'installation
-![Schema](./media/canevascosmique_plantation.png)
+<img src="./media/canevascosmique_plantation.png" width="350"/>
 (source: [Canevas-Cosmique](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html))
 
 ## Lien 

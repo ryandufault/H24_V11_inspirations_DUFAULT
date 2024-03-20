@@ -15,7 +15,7 @@ Photo de l'oeuvre en action. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
 <img src="./media/experiences/RHIZOMATIQUE_large.jpg" width="350"/><img src="./media/experiences/RHIZOMATIQUE_proche.jpg" width="350"/>
 
-Photo de l'oeuvre de porhce. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎Photo de l'oeuvre sous un autre angle.
+Photo de l'oeuvre de proche. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎Photo de l'oeuvre sous un autre angle.
 
 ## Schéma prévu pour l'installation
 ![Schema](./media/rhizomatique_plantation.drawio.png)

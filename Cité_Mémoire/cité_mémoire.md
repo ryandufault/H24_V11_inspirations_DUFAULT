@@ -21,27 +21,26 @@
 ![Vue d'ensemble](./img/mise_en_espace_1.JPG)
 
 ### Nom de l'artiste
-- Jeremy Shaw
+- Michel Lemieux, Victor Pilon et Michel Marc Bouchard
 
 ### Année de réalisation
-- 2020
+- 2021
 
 ### Description de l'œuvre
 - Phase Shifting Index est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. (source: Mac, [Lien vers la source](https://macm.org/expositions/jeremy-shaw/))
 ![Affiche exposition](./img/affiche_expo.JPG)
 
-## Détails supplémentaires
 
 ### Type d'installation
 - Contemplative
 ![Mise en espace](./img/mise_en_espace_2.JPG)
 
 ### Mise en espace
-- L'ensemble de l'œuvre est présente dans une pièce remplie de tapis, avec 7 écrans disposés de manière spécifique diffusant simultanément l'œuvre. Quelques bancs sont disposés dans la salle.
+- L'ensemble de l'œuvre est présente dans une ruelle. Multiples projecteurs affichent l'oeuvre et éclairent le sol
 ![Mise en espace](./img/mise_en_espace_3.JPG)
 
 ### Composantes et techniques
-- L'œuvre se compose en partie de projecteurs, ainsi que de 7 écrans qui constituent l'élément principal de ce qui est visible. De plus, des faisceaux de lumière ajoutent à l'ambiance, et des haut-parleurs diffusent la bande sonore du projet.
+- L'œuvre se compose uniquement de projecteurs.
 ![Composant technique](./img/composant_technique_1.JPG)
 ![Composant technique](./img/composant_technique_2.JPG)
 ![Composant technique](./img/composant_technique_3.JPG)

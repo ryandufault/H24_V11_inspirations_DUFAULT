@@ -10,6 +10,10 @@
 Kigo est un jeu interactif avec des visuels néon rétro changeants pour représenter les quatre saisons. Cette expérience engageante invite les participants à découvrir et à interagir avec un univers visuel dynamique. Crescentia pourrait être interprété comme une référence à la variété et au changement, ce qui explique le lien avec Kigo.
 
 ## Installation
+<img src="./media/experiences/KIGO_action.jpg" width="350"/>
+<img src="./media/experiences/KIGO_echelle.jpg" width="350"/>
+<img src="./media/experiences/KIGO_score.jpg" width="350"/>
+
 
 ## Schéma prévu pour l'installation
 ![Schema](./media/kigo_plantation.png)

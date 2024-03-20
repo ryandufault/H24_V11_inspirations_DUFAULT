@@ -9,6 +9,10 @@
 Rhizomatique explore la façon dont nous nous souvenons et interagissons avec le passé. En permettant aux visiteurs de naviguer à travers les souvenirs d'une personne inconnue, Rhizomatique correspond à l'objectif de Crescentia d'engager les gens dans une réflexion sur ce qui nous rend humains. La représentation du cerveau dans Rhizomatique reflète des souvenirs, établissant un lien avec la vision artistique globale de Crescentia.
 
 ## Installation
+<img src="./media/experiences/RHIZOMATIQUE_action" width="350"/>
+<img src="./media/experiences/RHIZOMATIQUE_ensemble" width="350"/>
+<img src="./media/experiences/RHIZOMATIQUE_large" width="350"/>
+<img src="./media/experiences/RHIZOMATIQUE_proche" width="350"/>
 
 ## Schéma prévu pour l'installation
 ![Schema](./media/rhizomatique_plantation.drawio.png)

@@ -37,6 +37,7 @@ Vue de l'oeuvre. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
 ### Description de l'œuvre
 - "Naissance du Monde" est l'une des nombreuses oeuvres faisant partie de l'exposition Cité Mémoire. Cette oeuvre se déroule dans une ruelle du quartier des arts à Montréal, où l'on observe des fonds abstraits en mouvement projetés sur le sol.
+
  *Note : il n'y avait pas de cartel*
 
 <img src="./media/goutelette.JPG" width="350"/>
